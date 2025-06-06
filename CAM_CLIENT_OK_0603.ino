@@ -8,7 +8,7 @@ const int buttonPin = 6;       // 버튼이 눌리면 LOW 상태가 됨
 
 // Wi-Fi 정보
 const char* ssid = "WeVO_2.4G";         // 연결할 Wi-Fi SSID
-const char* password = "Toolbox,8358+";     // 연결할 Wi-Fi 비밀번호
+const char* password = "Toolbox";     // 연결할 Wi-Fi 비밀번호
 
 // 서버 IP 주소 (ESP32-CAM 쪽)
 const char* serverIP = "192.168.10.4";  // ESP32-CAM 웹서버 주소
